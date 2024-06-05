@@ -1,3 +1,4 @@
 compiled_model*
 traced_model*
 *.tar.gz
+.ipynb_checkpoints
